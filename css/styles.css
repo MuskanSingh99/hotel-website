@@ -1,0 +1,91 @@
+
+.nav {
+  height: 80%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.top-container{
+  height:50%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.carousel-item {
+  padding-bottom: 20px;
+}
+
+.welcome {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: 'Space Mono', monospace;
+}
+
+.info {
+  padding-top: 30px;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.middle-container1{
+  padding-top: 90px;
+  padding-bottom: 90px;
+
+}
+
+.btn1 {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.middle-container2 {
+  background-color: 	#F5F5F5;
+  padding-top: 80px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.service {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.card-group {
+  padding-top: 40px;
+  padding-bottom:50px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+.card {
+  padding-top:10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 10PX;
+}
+
+.card-title {
+  font-family: 'Space Mono', monospace;
+}
+.middle-container3 {
+  height: 100%;
+  width: 100%;
+  margin-top:200px;
+  margin-bottom: 100px;
+
+}
+.btn2 {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+.bottom-container {
+  background-color: black;
+  color: white;
+
+}
